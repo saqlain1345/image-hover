@@ -28,7 +28,7 @@ body {
   height: 100%;
   background-size: cover;
   filter: grayscale(100%);
-  transition: 0ss linear;
+  transition: 1s linear;
 }
 .image:hover::before {
   width: 0;
